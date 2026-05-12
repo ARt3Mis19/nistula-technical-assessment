@@ -1,1 +1,0 @@
-# nistula-technical-assessment
