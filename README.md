@@ -29,7 +29,7 @@ nistula-assessment/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/nistula-technical-assessment
+git clone https://github.com/ARt3Mis19/nistula-technical-assessment.git
 cd nistula-technical-assessment
 pip install -r requirements.txt
 ```
